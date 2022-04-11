@@ -25,7 +25,7 @@ body {
 }
 
 .card {
-  border-radius: 0.5rem;
+  border-radius: 1rem;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -36,7 +36,7 @@ body {
 
 img {
   border-radius: 0.5rem;
-  width: 250px;
+  width: 300px;
   font-size: 14px;
 
 }
