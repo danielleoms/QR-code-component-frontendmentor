@@ -25,7 +25,7 @@ body {
 }
 
 .card {
-  border-radius: 1rem;
+  border-radius: 0.5rem;
   justify-content: center;
   align-items: center;
   text-align: center;
