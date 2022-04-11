@@ -6,7 +6,7 @@
     <a href="https://danielleoms.github.io/QR-code-component-frontendmentor//" color="red">
       Live </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">
+    <a href="https://www.frontendmentor.io/solutions/qr-code-component-challenge-rJeb_eMEq">
       Solution
     </a>
    <span> | </span>
