@@ -56,20 +56,5 @@ p {
   color: var(--grayish-blue);
 }
 
-/*=footer=*/
-
-.atribuittion {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100vw;
-  background-color: var(--light-gray);
-
-}
-
-.atribuittion a {
-  text-decoration: none;
-  color: var(--dark-blue);
-}
 
 
